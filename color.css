@@ -1,5 +1,5 @@
 body {
-	background-color: black;
+	background-color: #232323;
 }
 .squares {
 	width: 30%;
@@ -17,4 +17,8 @@ body {
 h1 {
 	color: white;
 	text-align: center;
+}
+
+span {
+	color: white;
 }
