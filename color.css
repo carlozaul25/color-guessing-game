@@ -9,11 +9,13 @@ body {
 	padding-bottom: 30%;
 	float: left;
 	margin: 1.66%;
+	border-radius: 15%;
+	transition: background-color 0.8s;
 }
 
 #container {
 	max-width: 600px;
-	margin: 0 auto;
+	margin: 20px auto;
 }
 
 h1 {
@@ -49,9 +51,10 @@ button {
 	text-transform: uppercase;
 	height: 100%;
 	font-weight: 700;
-	color: steelblue;
+/*	color: steelblue;*/
 	letter-spacing: 1px;
 	font-size: inherit;
+	transition: all 1.3s;
 }
 
 #message {
